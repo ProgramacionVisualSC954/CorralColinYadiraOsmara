@@ -1,0 +1,16 @@
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\bin\Debug\net8.0-windows\ejercicioCombinado.exe
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\bin\Debug\net8.0-windows\ejercicioCombinado.deps.json
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\bin\Debug\net8.0-windows\ejercicioCombinado.runtimeconfig.json
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\bin\Debug\net8.0-windows\ejercicioCombinado.dll
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\bin\Debug\net8.0-windows\ejercicioCombinado.pdb
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ejercicioCombinado.Form1.resources
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ejercicioCombinado.vbproj.GenerateResource.cache
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ejercicioCombinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ejercicioCombinado.AssemblyInfoInputs.cache
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ejercicioCombinado.AssemblyInfo.vb
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ejercicioCombinado.vbproj.CoreCompileInputs.cache
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ejercicioCombinado.dll
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\refint\ejercicioCombinado.dll
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ejercicioCombinado.pdb
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ejercicioCombinado.genruntimeconfig.cache
+C:\Users\yadic\Downloads\ejercicioCombinado_v2\ejercicioCombinado\combinado\obj\Debug\net8.0-windows\ref\ejercicioCombinado.dll
